@@ -22,7 +22,7 @@ html {
 
 @media only screen and (max-width: 652px) {
   .Mbti {
-    padding-bottom: 0;
+    padding: 0;
   }
   .Mbti .block-container {
     width: 100%;
